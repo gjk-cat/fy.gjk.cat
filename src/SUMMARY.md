@@ -1,5 +1,5 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
-- [Předmět 1](./predmety/predmet1/subject.md)
-	- [Článek 1](./predmety/predmet1/material1.md)
+- [Index](./index.md)
+- [Ostatní fyzika](./predmety/ostatni_fyzika/subject.md)
+	- [Článek 1](./predmety/ostatni_fyzika/uvod.md)
